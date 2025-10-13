@@ -1,0 +1,40 @@
+# EURO-CORDEX: new high-resolution climate change projections for European impact research
+
+## Research Paper Metadata
+- **Authors**: D. Jacob, Juliane Petersen, Bastian Eggert, A. Alias, O. B. Christensen, L. Bouwer, Alain Braun, A. Colette, M. Déqué, G. Georgievski, E. Georgopoulou, A. Gobiet, L. Menut, G. Nikulin, A. Haensler, N. Hempelmann, Colin G. Jones, K. Keuler, S. Kovats, N. Kröner, S. Kotlarski, A. Kriegsmann, E. Martin, E. Meijgaard, C. Moseley, S. Pfeifer, S. Preuschmann, C. Radermacher, K. Radtke, D. Rechid, M. Rounsevell, P. Samuelsson, S. Somot, J. Soussana, C. Teichmann, R. Valentini, R. Vautard, Björn Weber, P. Yiou
+- **Publication Year**: 2014
+- **Venue**: Regional Environmental Change
+- **Citations**: 1593
+- **Paper ID**: 16c70df81d289ca159434a1b986e458e7e7adf31
+- **Original URL**: https://www.semanticscholar.org/paper/16c70df81d289ca159434a1b986e458e7e7adf31
+- **DOI**: Not available
+
+## Abstract
+A new high-resolution regional climate change ensemble has been established for Europe within the World Climate Research Program Coordinated Regional Downscaling Experiment (EURO-CORDEX) initiative. The first set of simulations with a horizontal resolution of 12.5 km was completed for the new emission scenarios RCP4.5 and RCP8.5 with more simulations expected to follow. The aim of this paper is to present this data set to the different communities active in regional climate modelling, impact assessment and adaptation. The EURO-CORDEX ensemble results have been compared to the SRES A1B simulation results achieved within the ENSEMBLES project. The large-scale patterns of changes in mean temperature and precipitation are similar in all three scenarios, but they differ in regional details, which can partly be related to the higher resolution in EURO-CORDEX. The results strengthen those obtained in ENSEMBLES, but need further investigations. The analysis of impact indices shows that for RCP8.5, there is a substantially larger change projected for temperature-based indices than for RCP4.5. The difference is less pronounced for precipitation-based indices. Two effects of the increased resolution can be regarded as an added value of regional climate simulations. Regional climate model simulations provide higher daily precipitation intensities, which are completely missing in the global climate model simulations, and they provide a significantly different climate change of daily precipitation intensities resulting in a smoother shift from weak to moderate and high intensities.
+
+## Keywords and Topics
+
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:17:25.549Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

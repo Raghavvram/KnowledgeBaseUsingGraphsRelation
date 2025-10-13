@@ -1,0 +1,40 @@
+# Cloud-aerosol interactions in subtropical marine stratocumulus weaken in   a warmer climate
+
+## Research Paper Metadata
+- **Authors**: Hongwei Sun, Peter Blossey, Robert Wood, Ehsan Erfani, Sarah Doherty, Je-Yun Chun
+- **Publication Year**: 2025
+- **Venue**: arXiv Preprint
+- **Citations**: 44
+- **Paper ID**: 2507.01319v2
+- **Original URL**: http://arxiv.org/abs/2507.01319v2
+- **DOI**: Not available
+
+## Abstract
+Radiative effects of aerosol-cloud interactions constitute the most uncertain climate forcing of the Earth system, making it important to understand how they may change with climate. We conduct 3-day-long large-eddy simulations of a stratocumulus-to-cumulus transition along an airmass-following trajectory over the Northeast Pacific Ocean. By perturbing boundary layer aerosol concentrations, we simulate aerosol-cloud interactions in both present-day and doubled-CO2 conditions. Aerosol-induced cloud changes, including the Twomey effect and adjustments of cloud fraction and liquid water path, are inhibited in a doubled-CO2 climate. Decomposing the aerosol-induced cloud radiative effect change ($\Delta$CRE) reveals that aerosol-induced cloud fraction changes dominate $\Delta$CRE. Overall, doubling CO2 attenuates aerosol-induced $\Delta$CRE (i.e., cooling) by &gt;30% in our simulations. Our results also show that low cloud feedbacks are sensitive to the background aerosol concentration, highlighting the interplay between climate forcings and feedbacks. These results may aid in predicting the cooling potential of marine cloud brightening in a changing climate.
+
+## Keywords and Topics
+physics.ao-ph, climate change, radiative, effects, aerosol-cloud, interactions, constitute
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:16:15.635Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

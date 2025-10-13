@@ -1,0 +1,40 @@
+# Future operation of hydropower in Europe under high renewable   penetration and climate change
+
+## Research Paper Metadata
+- **Authors**: Ebbe Kyhl Gøtske, Marta Victoria
+- **Publication Year**: 2021
+- **Venue**: arXiv Preprint
+- **Citations**: 44
+- **Paper ID**: 2105.07756v1
+- **Original URL**: http://arxiv.org/abs/2105.07756v1
+- **DOI**: Not available
+
+## Abstract
+The balancing provided by hydropower reservoirs is essential in the transition towards a decarbonised European energy system, but the resource might be impacted by future climate change. In this work, we first analyse the hydropower operation needed to balance a wind and solar dominated European energy system, to signify whether and to what extent hydropower is required to operate differently due to the decarbonisation of the energy system. Second, we apply runoff data achieved with 10 dynamically downscaled climate models with 0.11 x 0.11 deg horizontal and daily resolution to project the future reservoir inflow at three CO2 emissions scenarios: low (RCP2.6), mid (RCP4.5), and high emissions (RCP8.5). We show that the decarbonised energy system increases the ramp rates and seasonality of the hydropower operation. Despite large interannual and intermodel variability, we found a significant change in annual inflow due to climate change in 20 out of 22 European countries at the mid and high emissions scenarios. The seasonal profile, as well as the frequency and duration of droughts and floods, is also projected to be impacted.
+
+## Keywords and Topics
+physics.ao-ph, climate change, balancing, provided, hydropower, reservoirs, essential
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:19:09.596Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

@@ -1,0 +1,40 @@
+# EpiClim: Weekly District-Wise all-India multi-epidemics Climate-Health   Dataset for accelerated GeoHealth research
+
+## Research Paper Metadata
+- **Authors**: Gurleen Kaur, Shubham Ghoshal, Reena Marbate, Neetiraj Malviya, Arshmehar Kaur, Vaisakh SB, Amit Kumar Srivastava, Manmeet Singh
+- **Publication Year**: 2025
+- **Venue**: arXiv Preprint
+- **Citations**: 49
+- **Paper ID**: 2501.18602v2
+- **Original URL**: http://arxiv.org/abs/2501.18602v2
+- **DOI**: Not available
+
+## Abstract
+Climate change significantly impacts public health, driving the emergence and spread of epidemics. Climate health models are essential for assessing and predicting disease outbreaks influenced by climatic variables like temperature and precipitation. For instance, dengue and malaria correlate with temperature changes, while cholera is linked to precipitation anomalies. Advances in AI-enabled weather prediction (AI-NWP) have improved forecasting, but integrating climate models with health systems is hindered by the lack of comprehensive, granular health datasets. This study introduces EpiClim: India's Epidemic-Climate Dataset, the first weekly district-wise dataset for major epidemics in India from 2009 to the present, sourced from the Integrated Disease Surveillance Programme (IDSP). The dataset, covering diseases like dengue, malaria, and acute-diarrheal disease, bridges the gap between climate and health data, enabling the integration of climate forecasts with epidemic prediction models. This work lays the foundation for coupling predictive climate health models with weather and climate models, advancing efforts to mitigate climate-induced public health crises.
+
+## Keywords and Topics
+physics.soc-ph, climate change, climate, change, significantly, impacts, public
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:12:09.128Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

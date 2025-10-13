@@ -1,0 +1,40 @@
+# Contemporary climate analogs project north-south polarization of urban   water-energy nexus across US cities under warming climate
+
+## Research Paper Metadata
+- **Authors**: Renee Obringer, Roshanak Nateghi, Jessica Knee, Kaveh Madani, Rohini Kumar
+- **Publication Year**: 2023
+- **Venue**: arXiv Preprint
+- **Citations**: 31
+- **Paper ID**: 2306.17050v1
+- **Original URL**: http://arxiv.org/abs/2306.17050v1
+- **DOI**: Not available
+
+## Abstract
+Despite the coupled nature of water and electricity demand, the two utilities are often managed by different entities with minimal interaction. Neglecting the water-energy demand nexus leads to to suboptimal management decisions, particularly under climate change. Here, we leverage state-of-the-art machine learning and contemporary climate analogs to project the city-level coupled water and electricity demand of 46 major U.S. cities into the future. The results show that many U.S. cities may experience an increase in electricity (water) demand of up to 20% (15%) due to climate change under a high emissions scenario, with a clear north-south gradient. In the absence of appropriate mitigation strategies, these changes will likely stress current infrastructure, limiting the effectiveness of the ongoing grid decarbonization efforts. In the event that cities are unable to match the increasing demand, there may be increased occurrence of supply shortages, leading to blackouts with disproportionate impacts on vulnerable populations. As such, reliable projections of future water and electricity demand under climate change are critical not only for preventing further exacerbation of the existing environmental injustices but also for more effective design and execution of climate change mitigation and adaptation plans.
+
+## Keywords and Topics
+stat.AP, climate change, despite, coupled, nature, water, electricity
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:14:50.565Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

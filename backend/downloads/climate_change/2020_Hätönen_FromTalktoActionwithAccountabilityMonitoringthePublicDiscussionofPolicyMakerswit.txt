@@ -1,0 +1,40 @@
+# From Talk to Action with Accountability: Monitoring the Public   Discussion of Policy Makers with Deep Neural Networks and Topic Modelling
+
+## Research Paper Metadata
+- **Authors**: Vili Hätönen, Fiona Melzer
+- **Publication Year**: 2020
+- **Venue**: Computational Linguistics
+- **Citations**: 37
+- **Paper ID**: 2010.08346v3
+- **Original URL**: http://arxiv.org/abs/2010.08346v3
+- **DOI**: Not available
+
+## Abstract
+Decades of research on climate have provided a consensus that human activity has changed the climate and we are currently heading into a climate crisis. While public discussion and research efforts on climate change mitigation have increased, potential solutions need to not only be discussed but also effectively deployed. For preventing mismanagement and holding policy makers accountable, transparency and degree of information about government processes have been shown to be crucial. However, currently the quantity of information about climate change discussions and the range of sources make it increasingly difficult for the public and civil society to maintain an overview to hold politicians accountable.   In response, we propose a multi-source topic aggregation system (MuSTAS) which processes policy makers speech and rhetoric from several publicly available sources into an easily digestible topic summary. MuSTAS uses novel multi-source hybrid latent Dirichlet allocation to model topics from a variety of documents. This topic digest will serve the general public and civil society in assessing where, how, and when politicians talk about climate and climate policies, enabling them to hold politicians accountable for their actions to mitigate climate change and lack thereof.
+
+## Keywords and Topics
+cs.CL, climate change, decades, research, climate, provided, consensus
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:17:02.507Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

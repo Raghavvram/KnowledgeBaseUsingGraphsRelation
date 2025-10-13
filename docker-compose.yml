@@ -1,0 +1,56 @@
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "3002:3002"
+    environment:
+      - NEO4J_URI=bolt://neo4j:7687
+      - NEO4J_USER=neo4j
+      - NEO4J_PASSWORD=password123
+      # Safety & tuning flags
+      - DISABLE_AUTO_DOWNLOAD=true
+      - MAX_AUTO_DOWNLOAD=3
+      - NEO4J_CONNECT_ATTEMPTS=6
+      - NEO4J_CONNECT_DELAY_MS=5000
+      - GROQ_API_KEY=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
+    depends_on:
+      - neo4j
+    volumes:
+      - ./backend:/usr/src/app
+      - /usr/src/app/node_modules
+
+  neo4j:
+    image: neo4j:5-enterprise
+    ports:
+      - "7474:7474" # This is for the Neo4j Browser UI
+      - "7687:7687" # This is for the backend to connect
+    volumes:
+      - neo4j_data:/data
+      - ./backend/downloads:/var/lib/neo4j/import
+    environment:
+      # This MUST match the password in the backend service above
+      - NEO4J_AUTH=neo4j/password123
+      - NEO4J_ACCEPT_LICENSE_AGREEMENT=yes
+      - NEO4JLABS_PLUGINS=["graph-data-science", "apoc"]
+      # Performance tuning
+      - NEO4J_server_memory_heap_initial__size=2G
+      - NEO4J_server_memory_heap_max__size=2G
+      - NEO4J_server_memory_pagecache_size=1G
+      # Import configuration
+      - NEO4J_server_security_allow__csv__import__from__file__urls=true
+      - NEO4J_dbms_security_procedures_unrestricted=apoc.*,gds.*
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:7474/ || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+
+volumes:
+  neo4j_data:

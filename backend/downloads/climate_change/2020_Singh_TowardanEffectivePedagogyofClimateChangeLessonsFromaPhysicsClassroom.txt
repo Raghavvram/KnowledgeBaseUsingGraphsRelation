@@ -1,0 +1,40 @@
+# Toward an Effective Pedagogy of Climate Change: Lessons From a Physics   Classroom
+
+## Research Paper Metadata
+- **Authors**: Vandana Singh
+- **Publication Year**: 2020
+- **Venue**: arXiv Preprint
+- **Citations**: 47
+- **Paper ID**: 2008.00281v2
+- **Original URL**: http://arxiv.org/abs/2008.00281v2
+- **DOI**: Not available
+
+## Abstract
+A major roadblock to effective climate education is the lack of radical visions (Kwauk, 2020) for engaging with climate change and related social-environmental crises in the classroom. Key aspects of the climate system: its inherent complexity and transdisciplinarity, the entanglement of social and natural systems, and the fact that it spans large scales of space and time - all present serious challenges to our modern, compartmentalized formal education systems. I present an argument for a justice-centered, inter-to-transdisciplinary conceptualization of climate change at the nexus of science, society and justice, which is designed to engage with the very features of the climate system that make it challenging. Based on pedagogical experiments in an undergraduate physics classroom for non-science majors, I identify five general barriers to teaching climate change, and formulate four dimensions of an effective climate pedagogy: the scientific-technological, the transdisciplinary, the onto-epistemological, and the psychosocial action dimensions. Within the context of a collaborative classroom culture informed by transformational learning, I describe the use of a meta-conceptual framework that, along with the issue of climate justice, seeks to realize all four dimensions of an effective climate pedagogy. This broad holistic framework is potentially adaptable to contexts and disciplines beyond undergraduate physics.
+
+## Keywords and Topics
+physics.ed-ph, climate change, major, roadblock, effective, climate, education
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:14:00.155Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

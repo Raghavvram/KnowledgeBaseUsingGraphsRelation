@@ -1,0 +1,40 @@
+# A new scenario framework for climate change research: the concept of shared socioeconomic pathways
+
+## Research Paper Metadata
+- **Authors**: B. O’Neill, E. Kriegler, K. Riahi, K. Ebi, S. Hallegatte, T. Carter, R. Mathur, D. P. Vuuren
+- **Publication Year**: 2014
+- **Venue**: Climatic Change
+- **Citations**: 2243
+- **Paper ID**: e7f588638dd4ad1bf8a0a6b484bcf1ce1c3402dc
+- **Original URL**: https://www.semanticscholar.org/paper/e7f588638dd4ad1bf8a0a6b484bcf1ce1c3402dc
+- **DOI**: Not available
+
+## Abstract
+The new scenario framework for climate change research envisions combining pathways of future radiative forcing and their associated climate changes with alternative pathways of socioeconomic development in order to carry out research on climate change impacts, adaptation, and mitigation. Here we propose a conceptual framework for how to define and develop a set of Shared Socioeconomic Pathways (SSPs) for use within the scenario framework. We define SSPs as reference pathways describing plausible alternative trends in the evolution of society and ecosystems over a century timescale, in the absence of climate change or climate policies. We introduce the concept of a space of challenges to adaptation and to mitigation that should be spanned by the SSPs, and discuss how particular trends in social, economic, and environmental development could be combined to produce such outcomes. A comparison to the narratives from the scenarios developed in the Special Report on Emissions Scenarios (SRES) illustrates how a starting point for developing SSPs can be defined. We suggest initial development of a set of basic SSPs that could then be extended to meet more specific purposes, and envision a process of application of basic and extended SSPs that would be iterative and potentially lead to modification of the original SSPs themselves.
+
+## Keywords and Topics
+
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:23:55.723Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

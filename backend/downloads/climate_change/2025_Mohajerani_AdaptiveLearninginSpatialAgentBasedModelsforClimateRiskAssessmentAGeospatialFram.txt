@@ -1,0 +1,40 @@
+# Adaptive Learning in Spatial Agent-Based Models for Climate Risk   Assessment: A Geospatial Framework with Evolutionary Economic Agents
+
+## Research Paper Metadata
+- **Authors**: Yara Mohajerani
+- **Publication Year**: 2025
+- **Venue**: Artificial Intelligence Conference
+- **Citations**: 50
+- **Paper ID**: 2509.18633v1
+- **Original URL**: http://arxiv.org/abs/2509.18633v1
+- **DOI**: Not available
+
+## Abstract
+Climate risk assessment requires modelling complex interactions between spatially heterogeneous hazards and adaptive economic systems. We present a novel geospatial agent-based model that integrates climate hazard data with evolutionary learning for economic agents. Our framework combines Mesa-based spatial modelling with CLIMADA climate impact assessment, introducing adaptive learning behaviours that allow firms to evolve strategies for budget allocation, pricing, wages, and risk adaptation through fitness-based selection and mutation. We demonstrate the framework using riverine flood projections under RCP8.5 until 2100, showing that evolutionary adaptation enables firms to converge with baseline (no hazard) production levels after decades of disruption due to climate stress. Our results reveal systemic risks where even agents that are not directly exposed to floods face impacts through supply chain disruptions, with the end-of-century average price of goods 5.6% higher under RCP8.5 compared to the baseline. This open-source framework provides financial institutions and companies with tools to quantify both direct and cascading climate risks while evaluating cost-effective adaptation strategies.
+
+## Keywords and Topics
+cs.AI, climate change, climate, assessment, requires, modelling, complex
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:16:00.228Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

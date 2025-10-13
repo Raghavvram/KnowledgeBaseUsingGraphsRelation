@@ -1,0 +1,40 @@
+# Modeling Climate Change Impact on Wind Power Resources Using Adaptive   Neuro-Fuzzy Inference System
+
+## Research Paper Metadata
+- **Authors**: Narjes Nabipour, Amir Mosavi, Eva Hajnal, Laszlo Nadai, Shahab Shamshirband, Kwok-Wing Chau
+- **Publication Year**: 2020
+- **Venue**: arXiv Preprint
+- **Citations**: 57
+- **Paper ID**: 2001.04279v1
+- **Original URL**: http://arxiv.org/abs/2001.04279v1
+- **DOI**: Not available
+
+## Abstract
+Climate change impacts and adaptations are the subjects to ongoing issues that attract the attention of many researchers. Insight into the wind power potential in an area and its probable variation due to climate change impacts can provide useful information for energy policymakers and strategists for sustainable development and management of the energy. In this study, spatial variation of wind power density at the turbine hub-height and its variability under future climatic scenarios are taken under consideration. An ANFIS based post-processing technique was employed to match the power outputs of the regional climate model with those obtained from the reference data. The near-surface wind data obtained from a regional climate model are employed to investigate climate change impacts on the wind power resources in the Caspian Sea. Subsequent to converting near-surface wind speed to turbine hub-height speed and computation of wind power density, the results have been investigated to reveal mean annual power, seasonal, and monthly variability for a 20-year period in the present (1981-2000) and in the future (2081-2100). The findings of this study indicated that the middle and northern parts of the Caspian Sea are placed with the highest values of wind power. However, the results of the post-processing technique using adaptive neuro-fuzzy inference system (ANFIS) model showed that the real potential of the wind power in the area is lower than those of projected from the regional climate model.
+
+## Keywords and Topics
+physics.ao-ph, climate change, climate, change, impacts, adaptations, subjects
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:16:53.773Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

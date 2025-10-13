@@ -1,0 +1,40 @@
+# Adapting to climate change: Long-term impact of wind resource changes on   China's power system resilience
+
+## Research Paper Metadata
+- **Authors**: Jiaqi Ruan, Xiangrui Meng, Yifan Zhu, Gaoqi Liang, Xianzhuo Sun, Huayi Wu, Huijuan Xiao, Mengqian Lu, Pin Gao, Jiapeng Li, Wai-Kin Wong, Zhao Xu, Junhua Zhao
+- **Publication Year**: 2023
+- **Venue**: arXiv Preprint
+- **Citations**: 52
+- **Paper ID**: 2311.16572v2
+- **Original URL**: http://arxiv.org/abs/2311.16572v2
+- **DOI**: Not available
+
+## Abstract
+Modern society's reliance on power systems is at risk from the escalating effects of wind-related climate change. Yet, failure to identify the intricate relationship between wind-related climate risks and power systems could lead to serious short- and long-term issues, including partial or complete blackouts. Here, we develop a comprehensive framework to assess China's power system resilience across various climate change scenarios, enabling a holistic evaluation of the repercussions induced by wind-related climate change. Our findings indicate that China's current wind projects and planning strategies could be jeopardized by wind-related climate change, with up to a 12\% decline in regional wind power availability. Moreover, our results underscore a pronounced vulnerability of power system resilience amidst the rigors of hastened climate change, unveiling a potential amplification of resilience deterioration, even approaching fourfold by 2060 under the most severe scenario, relative to the 2020 benchmark. This work advocates for strategic financial deployment within the power sector aimed at climate adaptation, enhancing power system resilience to avert profound losses from long-term, wind-influenced climatic fluctuations.
+
+## Keywords and Topics
+eess.SY, climate change, modern, society's, reliance, power, systems
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:14:24.338Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

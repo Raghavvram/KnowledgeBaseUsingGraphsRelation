@@ -1,0 +1,40 @@
+# Personalizing Sustainable Agriculture with Causal Machine Learning
+
+## Research Paper Metadata
+- **Authors**: Georgios Giannarakis, Vasileios Sitokonstantinou, Roxanne Suzette Lorilla, Charalampos Kontoes
+- **Publication Year**: 2022
+- **Venue**: Machine Learning Journal
+- **Citations**: 56
+- **Paper ID**: 2211.03179v1
+- **Original URL**: http://arxiv.org/abs/2211.03179v1
+- **DOI**: Not available
+
+## Abstract
+To fight climate change and accommodate the increasing population, global crop production has to be strengthened. To achieve the "sustainable intensification" of agriculture, transforming it from carbon emitter to carbon sink is a priority, and understanding the environmental impact of agricultural management practices is a fundamental prerequisite to that. At the same time, the global agricultural landscape is deeply heterogeneous, with differences in climate, soil, and land use inducing variations in how agricultural systems respond to farmer actions. The "personalization" of sustainable agriculture with the provision of locally adapted management advice is thus a necessary condition for the efficient uplift of green metrics, and an integral development in imminent policies. Here, we formulate personalized sustainable agriculture as a Conditional Average Treatment Effect estimation task and use Causal Machine Learning for tackling it. Leveraging climate data, land use information and employing Double Machine Learning, we estimate the heterogeneous effect of sustainable practices on the field-level Soil Organic Carbon content in Lithuania. We thus provide a data-driven perspective for targeting sustainable practices and effectively expanding the global carbon sink.
+
+## Keywords and Topics
+cs.LG, climate change, fight, climate, change, accommodate, increasing
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:14:22.392Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

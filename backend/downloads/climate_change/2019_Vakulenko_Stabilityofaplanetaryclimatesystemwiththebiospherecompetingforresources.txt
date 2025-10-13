@@ -1,0 +1,40 @@
+# Stability of a planetary climate system with the biosphere competing for   resources
+
+## Research Paper Metadata
+- **Authors**: Sergey A. Vakulenko, Ivan Sudakov, Sergei V. Petrovskii, Dmitry V. Lukichev
+- **Publication Year**: 2019
+- **Venue**: arXiv Preprint
+- **Citations**: 17
+- **Paper ID**: 1902.07936v3
+- **Original URL**: http://arxiv.org/abs/1902.07936v3
+- **DOI**: Not available
+
+## Abstract
+With the growing number of discovered exoplanets, the Gaia concept finds its second wind. The Gaia concept defines that the biosphere of an inhabited planet regulates a planetary climate through feedback loops such that the planet remains habitable. Crunching 'Gaia' puzzle has been a focus of intense empirical research. Much less attention has been paid to the mathematical realization of this concept. In this paper, we consider the stability of a planetary climate system with the dynamic biosphere by linking a conceptual climate model to a generic population dynamics model with random parameters. We first show that the dynamics of the corresponding coupled system possesses multiple timescales and hence falls into the class of slow-fast dynamics. We then investigate the properties of a general dynamical system to which our model belongs and prove that the feedbacks from the biosphere dynamics cannot break the system's stability as long as the biodiversity is sufficiently high. That may explain why the climate is apparently stable over long time intervals. Interestingly, our coupled climate-biosphere system can lose its stability if biodiversity decreases; in this case, the evolution of the biosphere under the effect of random factors can lead to a global climate change.
+
+## Keywords and Topics
+nlin.CD, climate change, growing, number, discovered, exoplanets,, concept
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:17:03.287Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

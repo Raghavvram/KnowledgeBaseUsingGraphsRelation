@@ -1,0 +1,40 @@
+# Multi-scale Digital Twin: Developing a fast and physics-informed   surrogate model for groundwater contamination with uncertain climate models
+
+## Research Paper Metadata
+- **Authors**: Lijing Wang, Takuya Kurihana, Aurelien Meray, Ilijana Mastilovic, Satyarth Praveen, Zexuan Xu, Milad Memarzadeh, Alexander Lavin, Haruko Wainwright
+- **Publication Year**: 2022
+- **Venue**: arXiv Preprint
+- **Citations**: 53
+- **Paper ID**: 2211.10884v1
+- **Original URL**: http://arxiv.org/abs/2211.10884v1
+- **DOI**: Not available
+
+## Abstract
+Soil and groundwater contamination is a pervasive problem at thousands of locations across the world. Contaminated sites often require decades to remediate or to monitor natural attenuation. Climate change exacerbates the long-term site management problem because extreme precipitation and/or shifts in precipitation/evapotranspiration regimes could re-mobilize contaminants and proliferate affected groundwater. To quickly assess the spatiotemporal variations of groundwater contamination under uncertain climate disturbances, we developed a physics-informed machine learning surrogate model using U-Net enhanced Fourier Neural Operator (U-FNO) to solve Partial Differential Equations (PDEs) of groundwater flow and transport simulations at the site scale.We develop a combined loss function that includes both data-driven factors and physical boundary constraints at multiple spatiotemporal scales. Our U-FNOs can reliably predict the spatiotemporal variations of groundwater flow and contaminant transport properties from 1954 to 2100 with realistic climate projections. In parallel, we develop a convolutional autoencoder combined with online clustering to reduce the dimensionality of the vast historical and projected climate data by quantifying climatic region similarities across the United States. The ML-based unique climate clusters provide climate projections for the surrogate modeling and help return reliable future recharge rate projections immediately without querying large climate datasets. In all, this Multi-scale Digital Twin work can advance the field of environmental remediation under climate change.
+
+## Keywords and Topics
+physics.geo-ph, climate change, groundwater, contamination, pervasive, problem, thousands
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:16:02.202Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

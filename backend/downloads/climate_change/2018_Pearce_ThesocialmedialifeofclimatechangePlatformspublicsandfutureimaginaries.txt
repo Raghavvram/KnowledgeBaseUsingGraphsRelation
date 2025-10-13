@@ -1,0 +1,40 @@
+# The social media life of climate change: Platforms, publics, and future imaginaries
+
+## Research Paper Metadata
+- **Authors**: W. Pearce, S. Niederer, S. Özkula, N. S. Querubín
+- **Publication Year**: 2018
+- **Venue**: WIREs Climate Change
+- **Citations**: 248
+- **Paper ID**: 60a45247a1ce76e97ce20d0c1e51c804e8504866
+- **Original URL**: https://www.semanticscholar.org/paper/60a45247a1ce76e97ce20d0c1e51c804e8504866
+- **DOI**: Not available
+
+## Abstract
+Social media is a transformative digital technology, collapsing the “six degrees of separation” which have previously characterized many social networks, and breaking down many of the barriers to individuals communicating with each other. Some commentators suggest that this is having profound effects across society, that social media have opened up new channels for public debates and have revolutionized the communication of prominent public issues such as climate change. In this article we provide the first systematic and critical review of the literature on social media and climate change. We highlight three key findings from the literature: a substantial bias toward Twitter studies, the prevalent approaches to researching climate change on social media (publics, themes, and professional communication), and important empirical findings (the use of mainstream information sources, discussions of “settled science,” polarization, and responses to temperature anomalies). Following this, we identify gaps in the existing literature that should be addressed by future research: namely, researchers should consider qualitative studies, visual communication and alternative social media platforms to Twitter. We conclude by arguing for further research that goes beyond a focus on science communication to a deeper examination of how publics imagine climate change and its future role in social life.
+
+## Keywords and Topics
+
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:11:42.600Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

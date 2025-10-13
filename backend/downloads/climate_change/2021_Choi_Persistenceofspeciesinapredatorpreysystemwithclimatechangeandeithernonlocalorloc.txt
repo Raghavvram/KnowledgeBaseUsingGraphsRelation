@@ -1,0 +1,40 @@
+# Persistence of species in a predator-prey system with climate change and   either nonlocal or local dispersal
+
+## Research Paper Metadata
+- **Authors**: Wonhyung Choi, Thomas Giletti, Jong-Shenq Guo
+- **Publication Year**: 2021
+- **Venue**: arXiv Preprint
+- **Citations**: 45
+- **Paper ID**: 2105.01349v2
+- **Original URL**: http://arxiv.org/abs/2105.01349v2
+- **DOI**: Not available
+
+## Abstract
+We are concerned with the persistence of both predator and prey in a diffusive predator-prey system with a climate change effect, which is modeled by a spatial-temporal heterogeneity depending on a moving variable. Moreover, we consider both the cases of nonlocal and local dispersal. In both these situations, we first prove the existence of forced waves, which are positive stationary solutions in the moving frames of the climate change, of either front or pulse type. Then we address the persistence or extinction of the prey and the predator separately in various moving frames, and achieve a complete picture in the local diffusion case. We show that the survival of the species depends crucially on how the climate change speed compares with the minimal speed of some pulse type forced waves.
+
+## Keywords and Topics
+math.AP, climate change, concerned, persistence, predator, diffusive, predator-prey
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:17:54.094Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

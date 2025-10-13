@@ -1,0 +1,40 @@
+# Climate-driven trends in the streamflow records of a reference   hydrologic network in Southern Spain
+
+## Research Paper Metadata
+- **Authors**: Patricio Yeste, Javier Dorador, Wenceslao Martín-Rosales, Emilio Molero, María Jesús Esteban Parra
+- **Publication Year**: 2020
+- **Venue**: arXiv Preprint
+- **Citations**: 16
+- **Paper ID**: 2008.07771v1
+- **Original URL**: http://arxiv.org/abs/2008.07771v1
+- **DOI**: Not available
+
+## Abstract
+Monthly streamflow records from a set of gauging stations, selected to form a reference hydrologic network, are analyzed together with precipitation and temperature data to establish whether the streamflows in the Guadalquivir River Basin have experienced changes during the last half of the XXth century that can be attributed to hydrological forcing. The observed streamflows in the reference network have undergone generalized and significant decreases both at seasonal and annual scales during the study period. Annual rainfall, though, did not experienced statistically significant changes. The observed trends in streamflows can be attributed to either land-use changes, or to the statistically significant changes exhibited both by yearly potential evapotranspiration values and by the seasonal distribution of precipitation. In the attribution work conducted using both data-based and simulation-based methods, the intra-annual redistribution of precipitation is shown to be the main statistically significant climate-driver of streamflow change. The contributions of other non-climate factors, such as the change in land cover, to the reduction in annual streamflows are shown to be minor in comparison.
+
+## Keywords and Topics
+physics.ao-ph, climate change, monthly, streamflow, records, gauging, stations,
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:23:26.138Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

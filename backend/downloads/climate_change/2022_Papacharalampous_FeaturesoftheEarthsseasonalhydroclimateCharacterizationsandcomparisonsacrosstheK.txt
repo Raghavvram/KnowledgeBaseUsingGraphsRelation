@@ -1,0 +1,40 @@
+# Features of the Earth's seasonal hydroclimate: Characterizations and   comparisons across the Koppen-Geiger climates and across continents
+
+## Research Paper Metadata
+- **Authors**: Georgia Papacharalampous, Hristos Tyralis, Yannis Markonis, Petr Maca, Martin Hanel
+- **Publication Year**: 2022
+- **Venue**: arXiv Preprint
+- **Citations**: 34
+- **Paper ID**: 2204.06544v2
+- **Original URL**: http://arxiv.org/abs/2204.06544v2
+- **DOI**: Not available
+
+## Abstract
+Detailed investigations of time series features across climates, continents and variable types can progress our understanding and modelling ability of the Earth's hydroclimate and its dynamics. They can also improve our comprehension of the climate classification systems appearing in their core. Still, such investigations for seasonal hydroclimatic temporal dependence, variability and change are currently missing from the literature. Herein, we propose and apply at the global scale a methodological framework for filling this specific gap. We analyse over 13 000 earth-observed quarterly temperature, precipitation and river flow time series. We adopt the Koppen-Geiger climate classification system and define continental-scale geographical regions for conducting upon them seasonal hydroclimatic feature summaries. The analyses rely on three sample autocorrelation features, a temporal variation feature, a spectral entropy feature, a Hurst feature, a trend strength feature and a seasonality strength feature. We find notable differences to characterize the magnitudes of these features across the various Koppen-Geiger climate classes, as well as between continental-scale geographical regions. We, therefore, deem that the consideration of the comparative summaries could be beneficial in water resources engineering contexts. Lastly, we apply explainable machine learning to compare the investigated features with respect to how informative they are in distinguishing either the main Koppen-Geiger climates or the continental-scale regions. In this regard, the sample autocorrelation, temporal variation and seasonality strength features are found to be more informative than the spectral entropy, Hurst and trend strength features at the seasonal time scale.
+
+## Keywords and Topics
+stat.AP, climate change, detailed, investigations, series, features, across
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:23:37.800Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

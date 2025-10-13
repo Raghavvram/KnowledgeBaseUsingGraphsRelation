@@ -1,0 +1,40 @@
+# Resilience based Electric Sector Optimization in Response to Extreme   Weather Conditions with Distributed Generation Systems
+
+## Research Paper Metadata
+- **Authors**: Rouzbeh Shirvani, Tarannom Parhizkar
+- **Publication Year**: 2022
+- **Venue**: arXiv Preprint
+- **Citations**: 47
+- **Paper ID**: 2209.10050v1
+- **Original URL**: http://arxiv.org/abs/2209.10050v1
+- **DOI**: Not available
+
+## Abstract
+Extreme weather events stemming from climate change can cause significant damage and disruption to power systems. Failure to mitigate and adapt to climate change and its cascading effects can lead to short and long term issues. The profound costs of outage in power systems, integrated with the impacts on individual safety and security from loss of critical services, necessitate an urgent need to guarantee resilience in electric power systems. This article proposes a framework to optimize the electricity sector design to be more resilient to climate change and extreme weather events by using distributed generators. The proposed framework considers components dynamic behavior and interdependencies under an uncertain environment. The climate data and socio economic factors are used to generate demand and supply pattern scenarios. The generated scenarios are simulated and utilized in a stochastic optimization model to find the optimal resilience based system design.
+
+## Keywords and Topics
+physics.app-ph, climate change, extreme, weather, events, stemming, climate
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:23:14.362Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

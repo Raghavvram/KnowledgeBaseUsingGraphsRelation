@@ -1,0 +1,43 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --exec ts-node src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "start:payload": "node --max-http-header-size=80000 dist/index.js"
+  },
+  "keywords": [
+    "research",
+    "ai",
+    "knowledge-graph",
+    "papers",
+    "hackathon"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "Backend for Knowledge Base Search Engine - AI Research Discovery Platform with large payload support",
+  "dependencies": {
+    "@types/express": "^5.0.2",
+    "@types/node": "^22.15.21",
+    "@xenova/transformers": "^2.17.2",
+    "axios": "^1.9.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "fs-extra": "^11.3.0",
+    "neo4j-driver": "^5.28.1",
+    "nodemon": "^3.1.10",
+    "openai": "^4.103.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.18",
+    "@types/fs-extra": "^11.0.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

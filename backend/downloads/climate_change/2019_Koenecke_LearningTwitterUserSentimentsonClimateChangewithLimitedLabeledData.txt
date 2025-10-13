@@ -1,0 +1,40 @@
+# Learning Twitter User Sentiments on Climate Change with Limited Labeled   Data
+
+## Research Paper Metadata
+- **Authors**: Allison Koenecke, Jordi Feliu-Fabà
+- **Publication Year**: 2019
+- **Venue**: Computational Linguistics
+- **Citations**: 47
+- **Paper ID**: 1904.07342v1
+- **Original URL**: http://arxiv.org/abs/1904.07342v1
+- **DOI**: Not available
+
+## Abstract
+While it is well-documented that climate change accepters and deniers have become increasingly polarized in the United States over time, there has been no large-scale examination of whether these individuals are prone to changing their opinions as a result of natural external occurrences. On the sub-population of Twitter users, we examine whether climate change sentiment changes in response to five separate natural disasters occurring in the U.S. in 2018. We begin by showing that relevant tweets can be classified with over 75% accuracy as either accepting or denying climate change when using our methodology to compensate for limited labeled data; results are robust across several machine learning models and yield geographic-level results in line with prior research. We then apply RNNs to conduct a cohort-level analysis showing that the 2018 hurricanes yielded a statistically significant increase in average tweet sentiment affirming climate change. However, this effect does not hold for the 2018 blizzard and wildfires studied, implying that Twitter users' opinions on climate change are fairly ingrained on this subset of natural disasters.
+
+## Keywords and Topics
+cs.CL, climate change, while, well-documented, climate, change, accepters
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:14:48.646Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

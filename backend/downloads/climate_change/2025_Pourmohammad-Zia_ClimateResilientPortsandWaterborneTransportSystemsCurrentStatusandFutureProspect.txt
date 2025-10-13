@@ -1,0 +1,40 @@
+# Climate-Resilient Ports and Waterborne Transport Systems: Current Status   and Future Prospects
+
+## Research Paper Metadata
+- **Authors**: Nadia Pourmohammad-Zia, Mark van Koningsveld
+- **Publication Year**: 2025
+- **Venue**: arXiv Preprint
+- **Citations**: 14
+- **Paper ID**: 2508.19387v1
+- **Original URL**: http://arxiv.org/abs/2508.19387v1
+- **DOI**: Not available
+
+## Abstract
+The increasing challenges posed by climate change necessitate a comprehensive examination of the resilience of waterborne transport systems. This paper explores the nexus of climate resilience, and waterborne transport, addressing the challenges faced by ports and their connecting waterborne transport systems. It provides an in-depth analysis of the current status of climate-resilient infrastructure and operations while emphasizing the transformative potential of emerging technologies. Through a systematic review, the paper identifies critical gaps and opportunities. Research predominantly emphasizes port infrastructure over supply chain resilience, neglecting the interconnected vulnerabilities of maritime networks. There is limited focus on specific climate-induced disruptions, such as drought and compounded events, which complicate resilience planning. Methodologically, risk assessments and case studies dominate the field, while advanced technologies such as digital twins, artificial intelligence, and satellite monitoring remain underutilized. Geographic disparities in research output and a tendency toward short- to medium-term planning further constrain global and long-term resilience efforts. To address these gaps, the study advocates for systems-based approaches that integrate infrastructure, operations, and supply chains. It highlights collaborative frameworks and advanced tools, including digital twins, machine learning, and participatory modeling, as crucial for enabling predictive and adaptive risk management. This study stands as one of the first comprehensive reviews exclusively focused on climate resilience in ports and waterborne transport systems. It provides actionable insights for policymakers, researchers, and industry stakeholders, proposing a future research agenda to advance waterborne transport systems capable of withstanding multifaceted climate impacts.
+
+## Keywords and Topics
+eess.SY, climate change, increasing, challenges, posed, climate, change
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:17:53.758Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.

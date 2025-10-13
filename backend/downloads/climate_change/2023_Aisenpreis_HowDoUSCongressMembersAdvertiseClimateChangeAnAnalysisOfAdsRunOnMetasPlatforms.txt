@@ -1,0 +1,40 @@
+# How Do US Congress Members Advertise Climate Change: An Analysis Of Ads   Run On Meta's Platforms
+
+## Research Paper Metadata
+- **Authors**: Laurenz Aisenpreis, Gustav Gyrst, Vedran Sekara
+- **Publication Year**: 2023
+- **Venue**: arXiv Preprint
+- **Citations**: 16
+- **Paper ID**: 2304.03278v1
+- **Original URL**: http://arxiv.org/abs/2304.03278v1
+- **DOI**: Not available
+
+## Abstract
+Ensuring transparency and integrity in political communication on climate change has arguably never been more important than today. Yet we know little about how politicians focus on, talk about, and portray climate change on social media. Here we study it from the perspective of political advertisement. We use Meta's Ad Library to collect 602,546 ads that have been issued by US Congress members since mid-2018. Out of those only 19,176 (3.2%) are climate-related. Analyzing this data, we find that Democrats focus substantially more on climate change than Republicans, with 99.7% of all climate-related ads stemming from Democratic politicians. In particular, we find this is driven by a small core of Democratic politicians, where 72% of all impressions can be attributed to 10 politicians. Interestingly, we find a significant difference in the average amount of impressions generated per dollar spent between the two parties. Republicans generate on average 188% more impressions with their climate ads for the same money spent as Democrats. We build models to explain the differences and find that demographic factors only partially explain the variance. Our results demonstrate differences of climate-related advertisements of US congress members and reveal differences in advertising characteristics between the two political parties. We anticipate our work to be a starting point for further studies about climate-related ads on Meta's platforms.
+
+## Keywords and Topics
+cs.SI, climate change, ensuring, transparency, integrity, political, communication
+
+## Research Context
+This paper appears to be related to research in areas involving machine learning, artificial intelligence, and computational sciences based on the content analysis.
+
+## Technical Details
+- **Download Method**: Enhanced text extraction (PDF not available)
+- **Content Type**: Research paper metadata and abstract
+- **Storage**: Full metadata stored in Knowledge Base Search Engine database
+- **Accessibility**: Full content available through Knowledge Base Search Engine platform
+
+## Access Information
+- **Downloaded**: 2025-10-12T06:16:16.668Z
+-- **Platform**: Knowledge Base Search Engine Research Discovery System
+- **Database Storage**: Complete metadata and content analysis available
+- **Research Integration**: Connected to related papers through citation and content analysis
+
+---
+
+### Knowledge Base Search Engine Analysis
+This paper has been processed through the Knowledge Base Search Engine platform for research discovery and knowledge graph generation. While the full PDF was not accessible, comprehensive metadata and abstract analysis provide substantial research value.
+
+For citation purposes, please refer to the original source using the provided URL or DOI when available.
+
+**Note**: This enhanced text file contains all available information about the research paper. The Knowledge Base Search Engine platform has analyzed and stored this content for research discovery and knowledge mapping purposes.
